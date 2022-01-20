@@ -25,4 +25,6 @@ An in-depth paragraph about your project and overview of use.
 
 This **project** is licensed under the [VALERIA VELEZ] license - see the LICENSE.md file for details
 
-Changes to practice Git Bash
+# Changes to practice Git Bash
+* This changes are made to practice Git Bash Push
+* This is a second change
