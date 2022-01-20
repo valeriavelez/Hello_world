@@ -24,3 +24,5 @@ An in-depth paragraph about your project and overview of use.
 # License
 
 This **project** is licensed under the [VALERIA VELEZ] license - see the LICENSE.md file for details
+
+Changes to practice Git Bash
